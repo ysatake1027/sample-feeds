@@ -1,6 +1,6 @@
 *.1e100.net1
 accounts.google.com
-accounts.google.[country]2
+accounts.google.co.jp
 accounts.gstatic.com
 accounts.youtube.com
 alkalichromeosflexhwis2-pa.googleapis.com3
