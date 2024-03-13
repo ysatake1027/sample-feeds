@@ -39,7 +39,8 @@ tools.google.com
 www.googleapis.com
 www.gstatic.com
 connectivitycheck.android.com
-play.google.com android.com
+play.google.com
+android.com
 google-analytics.com
 googleusercontent.com
 *gstatic.com
