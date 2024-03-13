@@ -38,3 +38,23 @@ storage.googleapis.com
 tools.google.com
 www.googleapis.com
 www.gstatic.com
+connectivitycheck.android.com
+play.google.com android.com
+google-analytics.com
+googleusercontent.com
+*gstatic.com
+*.ggpht.com
+android.clients.google.com
+*.gvt2.com
+*.gvt3.com
+*.googleapis.com
+gcm-http.googleapis.com
+gcm-xmpp.googleapis.com
+android.googleapis.com
+fcm.googleapis.com
+fcm-xmpp.googleapis.com
+pki.google.com
+clients5.google.com
+clients6.google.com
+connectivitycheck.gstatic.com
+www.google.com
